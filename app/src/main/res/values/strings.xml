@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Medupe</string>
+    <string name="appointment">APPOINTMENT</string>
+    <string name="medical_folder">MEDICAL FOLDER</string>
+    <string name="search">SEARCH</string>
+    <string name="my_doctors">MY DOCTORS</string>
+    <string name="profile">PROFILE</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="passwordforgotten"><u>Forgot your password ?</u></string>
+
+    <string-array name="doctorSpeciality">
+    <item>Plastic surgery</item>
+    <item>Orthopedics</item>
+    <item>Cardiologist</item>
+    <item>Radiologist</item>
+    <item>Dermatologist</item>
+    </string-array>
+
+    <string name="title_activity_search_doctor_speciality">SearchDoctorSpecialityActivity</string>
+    <string name="tab_text_1">Doctors</string>
+    <string name="tab_text_2">Speciality</string>
+    <string name="tab_text_3">On Hold</string>
+    <string name="tab_text_4">Accepted</string>
+    <string name="tab_text_5">Declined</string>
+    <string name="tab_text_6">Hospitalisations</string>
+    <string name="tab_text_7">Consultations</string>
+    <string name="title_activity_appointments">AppointmentsActivity</string>
+    <string name="title_activity_medical_folder">MedicalFolderActivity</string>
+    <string name="title_activity_doctor_localisation">Map</string>
+    <string name="title_activity_doctor_appointments">DoctorAppointments</string>
+    <string name="title_activity_my_patient_medical_folder">MyPatientMedicalFolderActivity</string>
+    <string name="patient">Patient</string>
+    <string name="doctor">Doctor</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="speciality">Speciality</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="code">Code</string>
+    <string name="marital_status">Marital status:</string>
+    <string name="cin">CIN</string>
+    <string name="email">Email</string>
+    <string name="birth_date_yyyy_mm_dd">Birth Date (YYYY-MM-DD)</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="create_account">Create account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email address</string>
+    <string name="the_satisfaction_of_patients_is_our_priority">\" The satisfaction of patients is our priority ! \"</string>
+    <string name="aliluch_loutfi">Aliluch Loutfi</string>
+    <string name="_30_08_1998">30/08/1998</string>
+    <string name="r364727">R364727</string>
+    <string name="aliluch_loutfi_gmail_com">aliluch.loutfi@gmail.com</string>
+    <string name="_0610108175">0610108175</string>
+    <string name="_1998_08_30">1998–08–30</string>
+    <string name="save_changes">Save changes</string>
+    <string name="login_or_password_are_incorrect">Login or password are incorrect</string>
+    <string name="login">Login…</string>
+    <string name="remember_me">Remember me</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="loutfi_aliluch">Loutfi Aliluch</string>
+    <string name="_27_05_2020">27/05/2020</string>
+    <string name="_10_15">10 : 15</string>
+    <string name="aliluch_loutfi">Aliluch Loutfi</string>
+    <string name="_25_05_2020">25/05/2020</string>
+    <string name="xywz_provider_domaine">xywz@provider.domaine</string>
+    <string name="send_me_an_email">Send me an Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="email_address">Email address</string>
+    <string name="broken_hand">Broken hand</string>
+    <string name="hospital_moulay_youssef">Hospital Moulay Youssef</string>
+    <string name="_11_05_2020">11/05/2020</string>
+    <string name="_300dh">300DH</string>
+    <string name="morena_mohale">fullName</string>
+    <string name="morena">morenaMohale</string>
+    <string name="mohale_morena">Mohale_Morena</string>
+    <string name="appointments">Appointments</string>
+    <string name="mohale_morena_gmail_com">mohale.morena@gmail.com</string>
+    <string name="_21_avenue_nibe">21 Avenue Nibe</string>
+    <string name="kimberley">Kimberley</string>
+    <string name="appointment">APPOINTMENT</string>
+    <string name="my_patients">MY PATIENTS</string>
+    <string name="search">SEARCH</string>
+    <string name="profile">PROFILE</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="dermatologist">Dermatologist</string>
+    <string name="_30_10_2020">30/10/2020</string>
+
+</resources>

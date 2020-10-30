@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="loutfi_aliluch">Loutfi Aliluch</string>
+    <string name="_27_05_2020">27/05/2020</string>
+    <string name="_10_15">10 : 15</string>
+    <string name="aliluch_loutfi">Aliluch Loutfi</string>
+    <string name="_25_05_2020">25/05/2020</string>
+    <string name="xywz_provider_domaine">xywz@provider.domaine</string>
+    <string name="send_me_an_email">Send me an Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="first_name">First name</string>
+    <string name="broken_hand">Broken hand</string>
+    <string name="hospital_moulay_youssef">Hospital Moulay Youssef</string>
+    <string name="_11_05_2020">11/05/2020</string>
+    <string name="_300dh">300DH</string>
+</resources>

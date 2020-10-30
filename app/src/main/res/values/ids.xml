@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="section_label" type="id">title_activity_payment</item>
+    <item name="declined_appointments" type="id">string</item>
+    <item name="myRecyclerView" type="id">recyclerView</item>
+    <item name="circle_text" type="id">circleText</item>
+    <item name="resetButton" type="id">resetButton</item>
+    <item name="onhold_appointments" type="id">OnholdAppointments</item>
+    <item name="myPatients" type="id">myPatients</item>
+    <item name="localisation" type="id">location</item>
+    <item name="speciality" type="id">speciality</item>
+    <item name="topside" type="id">topside</item>
+    <item name="address" type="id">address</item>
+    <item name="city" type="id">city</item>
+    <item name="map" type="id">map</item>
+    <item name="myDoctorsBySpeciality" type="id">myDoctorBySpeciality</item>
+    <item name="myDoctors" type="id">my_doctors</item>
+</resources>

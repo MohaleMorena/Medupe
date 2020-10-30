@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="custombutton">button</drawable>
+    <drawable name="ic_person">ic_person</drawable>
+    <drawable name="ic_hospital_patient">ic_hospital_patient</drawable>
+    <drawable name="ic_edit_1">ic_edit_1</drawable>
+    <drawable name="medupe">medupe</drawable>
+    <drawable name="ic_person_outline">ic_person_outline</drawable>
+    <drawable name="ic_lock_outline">ic_lock_outline</drawable>
+    <drawable name="search">ic_search</drawable>
+    <drawable name="logo">ic_logo</drawable>
+    <drawable name="ic_assignment">ic_assigment</drawable>
+    <drawable name="ic_edit_grey">ic_edit_grey</drawable>
+    <drawable name="healthcareplus">ic_healthcareplus</drawable>
+    <drawable name="topside">topside</drawable>
+    <drawable name="ic_ambulance">ic_ambulance</drawable>
+    <drawable name="gmap">ggmap</drawable>
+    <drawable name="medical_folder">medical_folder</drawable>
+</resources>

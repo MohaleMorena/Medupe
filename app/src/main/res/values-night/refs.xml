@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="search">ic_search</drawable>
+    <drawable name="logo">ic_logo</drawable>
+    <drawable name="ic_assignment">ic_assigment</drawable>
+    <drawable name="ic_edit_grey">ic_edit_grey</drawable>
+    <drawable name="healthcareplus">ic_healthcareplus</drawable>
+</resources>

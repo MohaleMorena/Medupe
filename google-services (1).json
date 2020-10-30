@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923686869820",
+    "firebase_url": "https://medupe-5a977.firebaseio.com",
+    "project_id": "medupe-5a977",
+    "storage_bucket": "medupe-5a977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923686869820:android:99aed4e1ec860b6bb75c39",
+        "android_client_info": {
+          "package_name": "com.example.medupe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923686869820-acbgd42h1omeefgq8sk7ue6768idbttl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6Rl2jPTnSMUXn6Hsn3Pakdvu_h6wAG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923686869820-acbgd42h1omeefgq8sk7ue6768idbttl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
